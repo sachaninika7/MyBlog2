@@ -1,0 +1,65 @@
+body{
+  text-align:center;
+  background:linear-gradient( #FFF59D, #448AFF,#80CBC4, #FFEBEE );
+  background-repeat:no-repeat;
+}
+
+img{
+  border-radius: 60%;
+    width: 175px;
+}
+
+h1{
+  font-size: 50px;
+   padding: 0px;
+color:#6200EA;
+ font-family: 'Akronim', cursive;
+}
+
+p{
+  color:hotpink;
+  font-size: 30px;
+  font-family: 'Birthstone', cursive;
+    
+}
+
+
+.links {
+    float: left;
+    color: #6200EA;
+    padding-top:5px;
+    padding-left: 9px;
+    padding-right: 9px;
+    padding-bottom: 5px;
+    font-family: fantasy;
+    font-size: 20px
+        
+}
+
+.links:hover{
+    background-color: hotpink;
+}
+.menu{
+    list-style:none;
+    font-family:cursive;
+    float:right;
+    top:10px;
+    right:30px;
+    cursor:pointer;
+    color:black;
+}
+hr{
+    color:purple;
+}
+#name{
+  font-family:"Festive", cursive;
+  color: hotpink;
+}
+hint{
+  font-size:"10px";
+}
+        
+
+
+   
+
